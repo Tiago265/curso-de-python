@@ -1,1 +1,1 @@
-# curso-de-python
+# curso-de-python-no-senai
