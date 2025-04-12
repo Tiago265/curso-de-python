@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+
 nome1 = input("Nome 01: ")
 nome2 = input("Nome 02: ")
 nome3 = input("Nome 03: ")
