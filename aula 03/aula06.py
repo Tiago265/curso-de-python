@@ -2,8 +2,8 @@
 # Aula de POO = Programação Orientada Objeto
 
 # Criando uma classe
-# self = construtor
-# __init__ = colocar todos os atributos
+#  __init__ = construtor
+# self = colocar todos os atributos
 
 class vendedor():
     def __init__(self, nome):
