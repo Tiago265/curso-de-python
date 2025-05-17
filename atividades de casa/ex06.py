@@ -5,7 +5,7 @@
 peso = float(input("Digite o seu peso: "))
 altura = float(input("Digite a sua altura: "))
 
-imcTotal = (peso / altura * altura) 
+imcTotal = peso / (altura * altura) 
 
 if imcTotal < 18.5:
     print("Você está abaixo do peso")

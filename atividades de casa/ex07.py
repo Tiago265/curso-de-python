@@ -8,7 +8,7 @@ r = int(input("Digite o valor do raio: "))
 pi = 3.14
 
 def calcular_area_circulo(r,pi):
-    a = pi * r*r
+    a = pi * (r*r)
     print(f"O valor da area é {a}")
 
 calcular_area_circulo(r)
