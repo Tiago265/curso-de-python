@@ -1,0 +1,3 @@
+Com parenteses resolve primeiro, dopois o que não tem parenteses.
+
+parenteses = ()
